@@ -5,6 +5,7 @@ import 'screens/add_journal_screen.dart';
 import 'screens/settings_screen.dart';
 import 'widgets/bottom_navbar.dart';
 
+//command
 void main() {
   runApp(MyApp());
 }
